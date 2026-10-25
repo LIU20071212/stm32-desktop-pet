@@ -1,0 +1,27 @@
+# ===== Keil MDK 编译产物 =====
+Objects/
+Listings/
+DebugConfig/
+*.axf
+*.crf
+*.o
+*.d
+*.lst
+*.map
+*.htm
+*.dep
+*.iex
+*.sct
+*.lnp
+*.build_log.htm
+
+# ===== Keil 个人配置（每人本地环境不同，不入库）=====
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# ===== 系统/编辑器垃圾 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+*.user
